@@ -7,5 +7,6 @@ A flutter project which gives a shopping experience to the users. In this applic
 ![Screenshot_1680758347](https://user-images.githubusercontent.com/89255970/230281093-6bbe6ca9-0629-4284-b5ea-b56acb70317e.png)
 ![Screenshot_1680758375](https://user-images.githubusercontent.com/89255970/230281101-bd5bb252-2cd5-40af-9e6a-9d41da2aa8fe.png)
 ![Screenshot_1680758454](https://user-images.githubusercontent.com/89255970/230281117-8574d0b6-c523-4a05-90d0-6195bea0adf9.png)
-![Screenshot_1680758454](https://user-images.githubusercontent.com/89255970/230281336-b623bb78-93be-490b-9a26-c492c1e5ae50.png)
+![Screenshot_1680758454](https://user-images.githubusercontent.com/89255970/230281336-b623bb78-93be-490b-9a26-c492c1e5ae50.png)  ![Screenshot_1680758468](https://user-images.githubusercontent.com/89255970/230281483-f2045da8-d4f3-409c-98e3-d0c68911be99.png)
+
 
